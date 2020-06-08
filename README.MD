@@ -49,7 +49,7 @@ For the full list of packages available click [here](pipeline/config/Klayers-pro
 
 ## Status of layers
 
-Click [here](https://pyup.io/account/repos/github/keithrozario/Klayers/settings/) to see specific dependencies of all the latest builds. Layers are built with the latest package version at 2am UTC every Sunday.
+Click [here](https://pyup.io/repos/github/keithrozario/Klayers/) to see specific dependencies of all the latest builds. The page usually warns of 'insecure' packages, as among the 70 packages we build weekly, there's always a few which have insecure dependencies, please refer to the specific package you wish to use.
 
 ## Using the Layers
 
